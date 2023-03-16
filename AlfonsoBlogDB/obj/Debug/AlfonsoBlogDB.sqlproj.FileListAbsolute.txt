@@ -1,0 +1,10 @@
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\bin\Debug\AlfonsoBlogDB.dacpac
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\bin\Debug\AlfonsoBlogDB.dll
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\bin\Debug\AlfonsoBlogDB.pdb
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\obj\Debug\AlfonsoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\obj\Debug\AlfonsoBlogDB.dll
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\obj\Debug\AlfonsoBlogDB.pdb
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\obj\Debug\Model.xml
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\obj\Debug\refactor.xml
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Gabriel Troy Alfonso\source\repos\AlfonsoLE2\AlfonsoBlogDB\obj\Debug\predeploy.sql
